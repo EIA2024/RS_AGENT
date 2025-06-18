@@ -1,3 +1,4 @@
+```
 RS_AGENT/
 ├── .env # 环境变量配置文件（需手动创建，存放API密钥等敏感信息）
 ├── .gitignore # Git忽略文件
@@ -21,6 +22,7 @@ RS_AGENT/
 │
 ├── requirements.txt # 依赖包列表
 └── test_knowledge_base.py # 知识库功能测试脚本
+```
 
 ---
 
